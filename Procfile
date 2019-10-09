@@ -1,1 +1,1 @@
-node add.js
+web: node www
